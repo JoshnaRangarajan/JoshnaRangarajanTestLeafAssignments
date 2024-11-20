@@ -14,8 +14,8 @@ public class Chrome {
 		 System.out.println(developer);
 		 
 		//Datatype:boolean
-		 boolean Beta =false;
-		 System.out.println(Beta);
+		 boolean isBeta =false;
+		 System.out.println(isBeta);
 		 
 		//Datatype:int
 		 int releaseYear=2008;
